@@ -1,0 +1,10 @@
+name= input("Enter your Name: ")
+print("Hello "+name)
+print(type(name))
+num= input("Enter a num: ")
+print(num)
+print(type(num))
+num1=int(num)
+num1=num1+2
+print(num1)
+print(type(num1))
